@@ -1,4 +1,4 @@
-# Football
+# Football Penalty
 import time
 """ Game of goal
 Help:
